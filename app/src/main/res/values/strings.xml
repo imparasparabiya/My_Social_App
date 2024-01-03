@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Social App</string>
+    <string name="whats_app">Whats App</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="gmail">Gmail</string>
+    <string name="discord">Discord</string>
+    <string name="git_hub">Git Hub</string>
+    <string name="link_in">Link In</string>
+    <string name="instagram">Instagram</string>
+    <string name="map_app">Map App</string>
+    <string name="messenger">Messenger</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="play_store">Play Store</string>
+    <string name="snap_chat">Snap chat</string>
+    <string name="spotify">Spotify</string>
+    <string name="telegram">Telegram</string>
+    <string name="twitter">Twitter</string>
+    <string name="you_tube">You Tube</string>
+    <string name="amazon">Amazon</string>
+    <string name="angel_one">Angel One</string>
+    <string name="mytra_app">Mytra App</string>
+    <string name="olx">OLX</string>
+</resources>
